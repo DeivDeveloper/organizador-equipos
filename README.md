@@ -42,6 +42,6 @@ Este proyecto es una aplicación web construida con **React** y **Vite** que per
     npm run dev
     ```
 
-## Instalación
+## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT.
